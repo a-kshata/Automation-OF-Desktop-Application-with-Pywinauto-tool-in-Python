@@ -1,0 +1,37 @@
+INFO - Enter the title1
+INFO - Enter the first name field in people
+INFO - Enter the last name in people
+INFO - Enter the AddLine1 address in people
+INFO - Enter the AddLine2 address in people
+INFO - Enter the city name in people
+INFO - Enter the zip of address in people
+INFO - Enter the phone number of home in people
+INFO - Enter the phone number of Work in people
+INFO - Enter the mobile number in people
+INFO - Enter personal email in people
+INFO - Enter the Work email in people
+INFO - click on r'Comments/Notes' block in people
+INFO - open the application 'MY_CRM(Sample_App)'
+INFO - Enter the name of company
+INFO - Enter the first name in Company
+INFO - Enter the last name in company
+INFO - Enter the city in Company
+INFO - click on open button in company
+INFO - select the state in company
+INFO - Enter the zip number in address of company
+INFO - Enter the main phone number of company
+INFO - Enter the other phone number of company
+INFO - Enter the value in r'Comment/Notes'
+INFO - open the application'MY_CRM(Sample_App)'
+INFO - click on other TabItem
+INFO - click on field generic1 in other information
+INFO - click on field generic2 in other information
+INFO - click on field generic3 in other information
+INFO - click on field generic4 in other information
+INFO - click on field generic5 in other information
+INFO - click on field generic6 in other information
+INFO - click on field generic7 in other information
+INFO - click on field generic8 in other information
+INFO - click on field generic9 in other information
+INFO - click on field generic10 in other information
+INFO - click on save field in other information
